@@ -9,7 +9,5 @@ With many of us around the world being encouraged to stay indoors and work from 
 
 ***Good luck, and happy coding! Wish you all the best ***
 
-![LeetCode Logo](logo.png)(https://leetcode.com/)
-Format: ![URL](https://leetcode.com/)
-
-[](https://leetcode.com/)
+![LeetCode Logo](logo.png)
+(https://leetcode.com/)
