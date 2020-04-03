@@ -21,16 +21,16 @@ class Solution:
     def isHappy(self, n: int) -> bool:
         digit = 0
         d = {}
-        while(n!=0):
-            digit = digit + (n%10) * (n%10)
-            n=n//10
-            if n==0 :
+        while(n != 0):
+            digit = digit + (n % 10) * (n % 10)
+            n = n//10
+            if n == 0:
                 if digit not in d:
                     d[digit] = 1
-                    if digit==1:
+                    if digit == 1:
                         flag = True
                         return True
                 else:
                     return False
                 n = digit
-                digit =0
+                digit = 0
