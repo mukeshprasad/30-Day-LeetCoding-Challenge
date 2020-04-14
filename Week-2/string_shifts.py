@@ -22,5 +22,5 @@ class Solution:
             if i[0] == 0:
                 s = s[i[1]:] + s[:i[1]]
             else:
-                s = s[len(s)-i[1]:] + s[:len(s)-i[1]]
+                s = s[-i[1]:] + s[:-i[1]]
         return s
