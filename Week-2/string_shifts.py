@@ -23,4 +23,4 @@ class Solution:
                 s = s[i[1]:] + s[:i[1]]
             else:
                 s = s[-i[1]:] + s[:-i[1]]
-        return s
+        return s          
