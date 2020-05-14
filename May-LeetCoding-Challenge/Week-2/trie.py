@@ -39,7 +39,6 @@ class Trie:
             current = current.children[ch]
         current.is_word = True
         
-
     def search(self, word: str) -> bool:
         current = self.root
         for ch in word:
