@@ -10,7 +10,7 @@
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        maximum = -999999999999  # maxsize - 1
+        maximum = -99999999999  # maxsize - 1
         curr_max = 0
         for i in nums:
             curr_max = curr_max + i
