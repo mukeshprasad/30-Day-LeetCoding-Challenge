@@ -24,7 +24,7 @@
      2   4
     /
    1
-Output: 3
+  Output: 3
 # Follow up:
   What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently?
   How would you optimize the kthSmallest routine?
