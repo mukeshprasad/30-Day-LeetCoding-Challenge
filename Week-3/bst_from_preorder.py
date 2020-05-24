@@ -19,7 +19,9 @@
      1   7   12
 
 '''
-
+''' # Only Check this Solution:
+         https://github.com/mukeshprasad/30-Day-LeetCoding-Challenge/blob/master/May-LeetCoding-Challenge/Week-4/bstFromPreorder.py
+'''                  
 class Solution:
     def bstFromPreorder(self, preorder: List[int]) -> TreeNode:
         if len(preorder) == 0:
