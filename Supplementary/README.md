@@ -8,3 +8,7 @@
 * Edit Distance - minDistance - 
     1. https://leetcode.com/problems/edit-distance/discuss/25846/C%2B%2B-O(n)-space-DP
     2. https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+ 
+* Possible Bipartition - 
+    1. https://leetcode.com/articles/possible-bipartition/
+    2. https://leetcode.com/problems/possible-bipartition/discuss/160371/Python-Decide-if-a-graph-is-bipartite-by-checking-the-existence-of-odd-cycles.
