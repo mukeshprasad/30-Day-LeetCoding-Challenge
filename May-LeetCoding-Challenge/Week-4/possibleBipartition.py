@@ -1,6 +1,11 @@
 '''
 # Possible Bipartition
 
+# Def: A bipartite graph (or bigraph) is a graph whose vertices can be divided into two disjoint and independent sets
+        U and V such that every edge connects a vertex in U to one in V.
+        Vertex sets U and V are usually called the parts of the graph.
+        Equivalently, a bipartite graph is a graph that does not contain any odd-length cycles.
+
 # Given a set of N people (numbered 1, 2, ..., N), we would like to split everyone into two groups of any size.
 
 # Each person may dislike some other people, and they should not go into the same group. 
