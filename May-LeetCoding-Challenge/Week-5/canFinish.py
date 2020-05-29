@@ -27,6 +27,8 @@
   * You may assume that there are no duplicate edges in the input prerequisites.
   * 1 <= numCourses <= 10^5
 '''
+# SOLUTION: Topological Sort - Kahn's Algorithm - O(V + E)
+
 class Solution:
     # 346253255 submission
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
