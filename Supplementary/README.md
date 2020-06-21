@@ -12,3 +12,7 @@
 * Possible Bipartition - 
     1. https://leetcode.com/articles/possible-bipartition/
     2. https://leetcode.com/problems/possible-bipartition/discuss/160371/Python-Decide-if-a-graph-is-bipartite-by-checking-the-existence-of-odd-cycles.
+
+* Dungeon Game - calculate_minimum_HP
+    1. https://leetcode.com/problems/dungeon-game/discuss/52774/C%2B%2B-DP-solution
+    2. https://leetcode.com/problems/dungeon-game/discuss/52792/6-lines-Python-8-lines-Ruby
