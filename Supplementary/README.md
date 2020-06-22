@@ -16,3 +16,7 @@
 * Dungeon Game - calculate_minimum_HP
     1. https://leetcode.com/problems/dungeon-game/discuss/52774/C%2B%2B-DP-solution
     2. https://leetcode.com/problems/dungeon-game/discuss/52792/6-lines-Python-8-lines-Ruby
+
+* Single Number II - 
+    1. https://leetcode.com/problems/single-number-ii/discuss/43294/Challenge-me-thx
+    2. https://leetcode.com/problems/single-number-ii/discuss/43302/Accepted-code-with-proper-Explaination.-Does-anyone-have-a-better-idea
