@@ -20,3 +20,7 @@
 * Single Number II - 
     1. https://leetcode.com/problems/single-number-ii/discuss/43294/Challenge-me-thx
     2. https://leetcode.com/problems/single-number-ii/discuss/43302/Accepted-code-with-proper-Explaination.-Does-anyone-have-a-better-idea
+    
+* Perfect Squares - num_squares - 
+    1. https://leetcode.com/problems/perfect-squares/discuss/71512/Static-DP-C%2B%2B-12-ms-Python-172-ms-Ruby-384-ms
+    2. https://leetcode.com/problems/perfect-squares/discuss/71488/Summary-of-4-different-solutions-(BFS-DP-static-DP-and-mathematics) 
