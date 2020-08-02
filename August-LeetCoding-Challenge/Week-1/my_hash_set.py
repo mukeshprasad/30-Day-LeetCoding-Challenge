@@ -59,3 +59,17 @@ class MyHashSet:
             if k == key:
                 return bucket, idx
         return bucket, -1
+# OTHER
+
+class MyHashSet:
+    def __init__(self):
+        self.buckets = bytearray(10 ** 6)
+
+    def add(self, key: int) -> None:
+        self.buckets[key] = 1
+
+    def remove(self, key: int) -> None:
+        self.buckets[key] = 0
+            
+    def contains(self, key: int) -> bool:
+        return self.buckets[key] == 1
